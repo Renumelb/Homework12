@@ -10,10 +10,10 @@ Q: Which coin had the highest mean positive score?
 A: Bitcoin had the highest mean score.
 
 Q: Which coin had the highest compound score?
-A: Ethereum had the highest compound score
+A: Ethereum had the highest compound score.
 
 Q. Which coin had the highest positive score?
-A: Bitcoin had the highest positive score
+A: Bitcoin had the highest positive score.
 
 ## Section 2. Natural Language Processing
 
